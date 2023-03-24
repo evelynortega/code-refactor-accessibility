@@ -22,9 +22,11 @@ Description:
 
 ## Assets
 
-The following image demonstrates the web application's appearance:
+The following images demonstrate the web application's appearance:
 
-![Horiseon Social Solution Services Three Images.](.Images/horiseon-screenshot1.png)(.Images/horiseon-screenshot2.png)(.Images/horiseon-screenshot3.png)
+![Screenshot Image 1](/Develop/assets/images/horiseon-screenshot1.png)
+![Screenshot Image 2](/Develop/assets/images/horiseon-screenshot2.png)
+![Screenshot Image 3](/Develop/assets/images/horiseon-screenshot3.png)
 
 
 ## Credits
